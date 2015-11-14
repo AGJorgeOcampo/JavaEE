@@ -1,0 +1,8 @@
+    <body>
+        <h1>Hello World!</h1>
+        <%-- Practica de Scriplets --%>
+        <% int caramelo = 10;%>
+        <% for(int i = 0; i < caramelo; i++){%>
+        <%= i %>
+        <%}%>
+    </body>
